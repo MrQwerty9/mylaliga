@@ -1,0 +1,32 @@
+{
+    "name": "My First PWA",
+    "short_name": "My PWA",
+    "description": "Aplikasi PWA pertama saya",
+    "start_url": "/pwa/index.html",
+    "gcm_sender_id": "683578040761",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+          "src": "/asset/icon/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "/asset/icon/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "/asset/icon/icon-144x144.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "/asset/icon/icon-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+    ]
+}

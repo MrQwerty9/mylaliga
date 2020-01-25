@@ -1,0 +1,23 @@
+.img-match{
+	height:auto;
+	width: auto;
+	max-height: 25px;
+	max-width: 25px;
+}
+
+table.matches td.match-left{
+	text-align: left;
+}
+
+table.matches td.match-right{
+	text-align: right;
+}
+
+table.matches td.match-score{
+	font-weight: 500;
+	color: #ffc107;
+}
+
+table.matches td.divide{
+	border-left: 1px solid rgba(92, 67, 0,1);
+}
